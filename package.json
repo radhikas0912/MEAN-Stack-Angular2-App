@@ -1,0 +1,29 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN stack app using Angular2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radhikas0912/MEAN-Stack-Angular2-App.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "Angular2",
+    "App"
+  ],
+  "author": "Radhika Shravgi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radhikas0912/MEAN-Stack-Angular2-App/issues"
+  },
+  "homepage": "https://github.com/radhikas0912/MEAN-Stack-Angular2-App#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.9"
+  }
+}
